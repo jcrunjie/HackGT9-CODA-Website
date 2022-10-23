@@ -1,9 +1,8 @@
 @import 'fonts';
 @import 'rouge-github';
-$bkgdImage :"/assets/img";
 
 body {
-  background: url(#{$bkgdImage}/Cosmic_fusion.jpg);
+  background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
   font: 14px/1.5 'Noto Sans', Helvetica, Arial, sans-serif;
   color: #242358;
   -webkit-font-smoothing: subpixel-antialiased;
