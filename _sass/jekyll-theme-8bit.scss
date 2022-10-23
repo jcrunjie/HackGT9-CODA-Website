@@ -123,13 +123,11 @@ footer {
 }
 
 .nes-container.blue-border {
-  background-color: #7c73f3;
   border-image-source: url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" ?><svg version="1.1" width="8" height="8" xmlns="http://www.w3.org/2000/svg"><path d="M3 1 h1 v1 h-1 z M4 1 h1 v1 h-1 z M2 2 h1 v1 h-1 z M5 2 h1 v1 h-1 z M1 3 h1 v1 h-1 z M6 3 h1 v1 h-1 z M1 4 h1 v1 h-1 z M6 4 h1 v1 h-1 z M2 5 h1 v1 h-1 z M5 5 h1 v1 h-1 z M3 6 h1 v1 h-1 z M4 6 h1 v1 h-1 z" fill="rgb(75, 73, 184)" /></svg>');
 }
 
 .nes-container.green-border {
-  background-color: #3FFFFB;
-  border-image-source: url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" ?><svg version="1.1" width="8" height="8" xmlns="http://www.w3.org/2000/svg"><path d="M3 1 h1 v1 h-1 z M4 1 h1 v1 h-1 z M2 2 h1 v1 h-1 z M5 2 h1 v1 h-1 z M1 3 h1 v1 h-1 z M6 3 h1 v1 h-1 z M1 4 h1 v1 h-1 z M6 4 h1 v1 h-1 z M2 5 h1 v1 h-1 z M5 5 h1 v1 h-1 z M3 6 h1 v1 h-1 z M4 6 h1 v1 h-1 z" fill="rgb(63, 190, 255)" /></svg>');
+  border-image-source: url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" ?><svg version="1.1" width="8" height="8" xmlns="http://www.w3.org/2000/svg"><path d="M3 1 h1 v1 h-1 z M4 1 h1 v1 h-1 z M2 2 h1 v1 h-1 z M5 2 h1 v1 h-1 z M1 3 h1 v1 h-1 z M6 3 h1 v1 h-1 z M1 4 h1 v1 h-1 z M6 4 h1 v1 h-1 z M2 5 h1 v1 h-1 z M5 5 h1 v1 h-1 z M3 6 h1 v1 h-1 z M4 6 h1 v1 h-1 z" fill="rgb(36, 154, 214)" /></svg>');
 }
 
 .nes-container.brown-border {
@@ -181,22 +179,22 @@ footer {
 
 .nes-container.downloads {
   font-family: 'Press Start 2P', Helvetica, Arial, sans-serif;
-  background-color: #5adb57;
+  background-color: #3FBEFF;
   margin-top: 12px;
 }
 
 .nes-btn.is-file {
   color: #fafafa;
-  background-color: #01b801;
+  background-color: #2d97d8;
 }
 .nes-btn.is-file::after {
-  box-shadow: inset -4px -4px #007800;
+  box-shadow: inset -4px -4px #1776b2;
 }
 .nes-btn.is-file:hover {
-  background-color: #5adb57;
+  background-color: #40FEFA;
 }
 .nes-btn.is-file:hover::after {
-  box-shadow: inset -6px -6px #01b801;
+  box-shadow: inset -6px -6px #2d97d8;
 }
 
 .nes-list.is-disc li::before,
