@@ -4,9 +4,11 @@ layout: default
 
 {% for post in paginator.posts %}
 <div>
-  <h1 style="color: white;"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
+  <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
+  <p style="color: white;">
   {{ post.excerpt }}
   <!-- <a href="{{ post.url | relative_url }}">[ Read ]</a> -->
+  </p>
 </div>
 <br />
 {% endfor %}
