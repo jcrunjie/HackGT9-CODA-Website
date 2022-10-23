@@ -2,7 +2,7 @@ title: CODA
 description: A music rhythm game that teaches American Sign Language!
 remote_theme: julianolf/jekyll-theme-8bit
 logo: assets/img/CODA.png
-show_downloads: true
+show_downloads: false
 plugins:
  - jekyll-paginate
  - jekyll-seo-tag
