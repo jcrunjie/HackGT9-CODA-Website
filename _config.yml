@@ -1,7 +1,7 @@
 title: CODA
 description: An ASL Music Game for CODA (children of deaf adult)
 remote_theme: julianolf/jekyll-theme-8bit
-logo: nes-kirby
+logo: assets/img/CODA.png
 show_downloads: true
 plugins:
  - jekyll-paginate
