@@ -3,7 +3,7 @@
 $bkgdImage :"/assets/img";
 
 body {
-  background: url(#{$assetsPath}/Cosmic_fusion.jpg);
+  background: url(#{$bkgdImage}/Cosmic_fusion.jpg);
   font: 14px/1.5 'Noto Sans', Helvetica, Arial, sans-serif;
   color: #242358;
   -webkit-font-smoothing: subpixel-antialiased;
