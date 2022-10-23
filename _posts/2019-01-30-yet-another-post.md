@@ -4,7 +4,7 @@ title: What it does
 ---
 
 CODA is a music rhythm game that teaches players American Sign Language (ASL) while having fun! 
-Players will wave ASL signs to the lyrics of a song in front of a camera. Our game scores the players based on the accuracy of their waved hand signs as well as their adherence to the beat of the song
+Players will wave ASL signs to the lyrics of a song in front of a camera. Our game scores the players based on the accuracy of their waved hand signs as well as their adherence to the beat of the song.
 
 
 ### Small image
