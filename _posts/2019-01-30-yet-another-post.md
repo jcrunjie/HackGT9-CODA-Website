@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Yet Another Post
+title: What it does
 ---
 
-In this post you are going to take a look on how images, nested lists, and definition lists look like.
+CODA is a music rhythm game that teaches players American Sign Language (ASL) while having fun! 
+Players will wave ASL signs to the lyrics of a song in front of a camera. Our game scores the players based on the accuracy of their waved hand signs as well as their adherence to the beat of the song
+
 
 ### Small image
 

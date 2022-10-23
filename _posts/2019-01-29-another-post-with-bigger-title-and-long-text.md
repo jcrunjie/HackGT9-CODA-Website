@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Another post with bigger title and long text
+title: Inspiration
 author: Juliano Fernandes
 tags: [lorem, ipsum]
 ---
 
-Here you can take a look on how code blocks, lists, tables and a few headers look like.
+Our inspiration comes from the movie CODA, which stands for Child of Deaf Adults. This movie increased our awareness of people with disabilities and thus made us ponder ways to help them. We try to find ways to make society more inclusive of deaf people, which is a minority group. We think it would be beneficial to increase the spread of American Sign Language (ASL). If more people know ASL, more people could communicate with deaf people and thus make them more integrated into society. 
+
+We need an incentive for the public to learn ASL, and we think the best approach is to gamify the learning experience. We think that a music rhythm game is perfect for the job. Rhythm games typically require players to hit buttons in a specific order as seen on the screen, while following the beat of the music, which is fun for the players as they get to rock out to their favorite tunes, thus making rhythm games very popular. We see this as an opportunity to use the player’s enthusiasm toward learning ASL! Thus, we decided to add a twist to the rhythm games: instead of having players hit buttons, they will be waving sign ASL signs to the beat of the music! 
+
 
 ### Header 3
 
